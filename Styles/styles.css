@@ -1032,20 +1032,24 @@ transform: rotate(0deg);
 
         .header .title {
             font-size: 40px;
+            margin-left: 50px;
         }
 
         .header .subtitle, .header .subtitle2 {
             font-size: 18px;
+            margin-left: 50px;
         }
 
         .coffee {
             right: 100px;
             width: 220px;
             height: 200px;
+            bottom: -40px;
         }
 
         .coffee-2 {
-            right: 220px;
+            right: 200px;
+            bottom: -60px;
         }
 
 

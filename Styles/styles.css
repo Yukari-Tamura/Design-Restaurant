@@ -773,7 +773,7 @@ transform: rotate(0deg);
 
 
   /*responsive*/
-  @media only screen and (max-width: 720px)  {
+  @media only screen and (max-width: 700px)  {
 
     .nav ul li {
         font-size: 10px;

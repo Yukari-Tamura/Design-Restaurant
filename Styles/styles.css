@@ -966,9 +966,15 @@ transform: rotate(0deg);
         
     }
 
+    .gallery-box .box-ingredients {
+        width: 100px;
+        right: 0px;
+    }
+
     .gallery-box .box-dessccount {
      width: 80px;
      height: 80px;
+     margin-left: 20px;
     }
 
     .gallery-box .box-dessccount span {
